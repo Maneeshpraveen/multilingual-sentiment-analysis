@@ -1,4 +1,5 @@
 numpy
+request
 render_template
 gunicorn
 opencv_python
