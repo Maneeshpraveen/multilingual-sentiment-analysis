@@ -1,0 +1,11 @@
+numpy
+gunicorn
+opencv_python
+Pillow
+torch
+torchfile
+torchvision
+Flask
+Jinja2
+Werkzeug
+click
