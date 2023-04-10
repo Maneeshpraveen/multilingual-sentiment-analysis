@@ -11,4 +11,3 @@ Jinja2
 Werkzeug
 click
 Net
-request_url
