@@ -1,6 +1,5 @@
 numpy
-tensorflow
-keras
+render_template
 gunicorn
 opencv_python
 Pillow
@@ -11,3 +10,4 @@ Flask
 Jinja2
 Werkzeug
 click
+Net
