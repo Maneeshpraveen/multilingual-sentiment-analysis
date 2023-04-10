@@ -1,4 +1,6 @@
 numpy
+tensorflow
+keras
 gunicorn
 opencv_python
 Pillow
